@@ -5,7 +5,8 @@
 
 - Developed by MohammadReza Afroozi
 - Created - 2025
-- 🤖 Technologies Used - [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+- 🤖 Technologies Used
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 - 🤖🤖♀️ Role - Frontend
 - Master : Parsa - Ghorbanian
